@@ -1,0 +1,34 @@
+Anhui -> Henan Hubei Jiangsu Jiangxi Shandong Zhejiang
+Beijing -> Hebei Tianjing
+Chongqing -> Guizhou Hubei Hunan Shaanxi Sichuan
+Fujian -> Guangdong Jiangxi Taiwan Zhejiang
+Gansu -> InnerMongoria Ningxia Qinghai Shaanxi Sichuan Xinjiang
+Guangdong -> Fujian Guangxi Hainan HongKong Hunan Jiangxi Macao
+Guangxi -> Guangdong Guizhou Hunan Yunnan
+Guizhou -> Chongqing Guangxi Hunan Sichuan Yunnan
+Hainan -> Guangdong
+Hebei -> Beijing Henan InnerMongoria Liaoning Shandong Shanxi Tianjing
+Heilongjiang -> InnerMongoria Jilin
+Henan -> Anhui Hebei Hubei Shaanxi Shandong Shanxi
+HongKong -> Guangdong
+Hubei -> Anhui Chongqing Henan Hunan Jiangxi Shaanxi
+Hunan -> Jiangxi Hubei Chongqing Guizhou Guangxi Guangdong
+InnerMongoria -> Gansu Hebei Heilongjiang Jilin Liaoning Ningxia Shaanxi Shanxi
+Jiangsu -> Anhui Shandong Shanghai Zhejiang
+Jiangxi -> Anhui Fujian Guangdong Hubei Hunan Zhejiang
+Jilin -> Heilongjiang InnerMongoria Liaoning
+Liaoning -> Hebei InnerMongoria Jilin
+Macao -> Guangdong
+Ningxia -> Gansu InnerMongoria Shaanxi
+Qinghai -> Gansu Sichuan Tibet Xinjiang
+Shaanxi -> Chongqing Gansu Henan Hubei InnerMongoria Ningxia Shanxi Sichuan
+Shandong -> Anhui Hebei Henan Jiangsu
+Shanghai -> Jiangsu Zhejiang
+Shanxi -> Hebei InnerMongoria Shaanxi Henan
+Sichuan -> Chongqing Gansu Guizhou Qinghai Shaanxi Tibet Yunnan
+Taiwan -> Fujian
+Tianjing -> Beijing Hebei
+Tibet -> Qinghai Sichuan Xinjiang Yunnan
+Xinjiang -> Gansu Qinghai Tibet
+Yunnan -> Guangxi Guizhou Sichuan Tibet
+Zhejiang -> Anhui Fujian Jiangsu Jiangxi Shanghai

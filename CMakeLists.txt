@@ -7,6 +7,7 @@ project(code)
 set(CMAKE_CXX_STANDARD 14)
 #set(WORK ${dir_srcs})
 
-add_executable(code lanqiao/sort/selectSort.cpp)
+#add_executable(code lanqiao/link/CreateLink.cpp)
 #add_executable(code go_over/${files})
-
+add_executable(code lanqiao/testB04/chinesecenter.cpp)
+#add_executable(code helloworld.cpp)
